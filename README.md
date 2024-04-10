@@ -1,4 +1,4 @@
-[Live]([url](https://parthkaul2.pythonanywhere.com/api/todoitems/)) 
+[Live]([https://parthkaul2.pythonanywhere.com/api/todoitems/](https://parthkaul2.pythonanywhere.com/api/todoitems/)) 
 User: admin
 Pswd: 123
 
