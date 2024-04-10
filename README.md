@@ -1,3 +1,7 @@
+[Live]([url](https://parthkaul2.pythonanywhere.com/api/todoitems/)) 
+User: admin
+Pswd: 123
+
 Steps to run this project on your system:
 
 1. Clone the repository using 'git clone https://github.com/parthkaul-bit/mytodoapp.git'.
